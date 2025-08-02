@@ -1,3 +1,5 @@
+[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/tay2501)
+
 # Base64FileConverter
 
 *Base64FileConverter* is converter to encode files to Base64 or decode Base64 to files by PowerShell.
