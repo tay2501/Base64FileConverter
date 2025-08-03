@@ -1,4 +1,4 @@
-[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/tay2501)
+[!["Buy Me a Coffee at ko-fi.com"](https://storage.ko-fi.com/cdn/kofi6.png?v=6)](https://ko-fi.com/Z8Z31J3LMW)
 
 # Base64FileConverter
 
